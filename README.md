@@ -1,4 +1,2 @@
 # arbor-sept
-# arbor-sept
-# arbor-sept
-# arbor-sept
+Git is very helpful for devops.
